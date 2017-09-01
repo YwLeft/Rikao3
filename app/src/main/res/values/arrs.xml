@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="Mytitle1">
+        <attr name="button1size" format="dimension" />
+        <attr name="button2size" format="dimension" />
+        <attr name="titlesize" format="dimension" />
+
+        <attr name="button1text" format="string"  />
+        <attr name="button2text" format="string" />
+        <attr name="titletext" format="string" />
+
+        <attr name="button1color" format="dimension" />
+        <attr name="button2color" format="dimension" />
+        <attr name="titlecolor" format="dimension" />
+    </declare-styleable>
+
+</resources>

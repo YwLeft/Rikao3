@@ -23,7 +23,6 @@ public class Myactivity extends AppCompatActivity implements Mytitle.titleonclic
 
     @Override
     public void onbutton1click(View v) {
-        finish();
 
     }
 
@@ -33,7 +32,7 @@ public class Myactivity extends AppCompatActivity implements Mytitle.titleonclic
     }
 
     @Override
-    public void onbuttonc2lick(View v) {
+    public void onbutton2click(View v) {
 
     }
 }
